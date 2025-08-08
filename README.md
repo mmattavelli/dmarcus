@@ -1,2 +1,2 @@
 # dmarcus
-Just the website for the dMARCus App project
+Just the website repository for the dMARCus App project
